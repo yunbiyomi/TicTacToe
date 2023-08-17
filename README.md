@@ -1,6 +1,6 @@
 # ⭕ Tic Tac Toe ❌
 
-**🌐 바로가기** : https://yunbiyomi.github.io/tic-tac-toe/
+**🌐 바로가기** : https://yunbiyomi.github.io/TicTacToe/
 
 **사용 기술**
 
