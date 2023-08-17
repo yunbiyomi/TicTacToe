@@ -1,0 +1,8 @@
+.board-wrapper {
+  width: 100%;
+  box-sizing: border-box;
+  border: 10px solid #749BC2;
+  box-shadow: rgba(0, 0, 0, .2);
+  border-radius: 9px;
+  overflow: hidden;
+}
